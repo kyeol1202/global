@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "y",
+    "public": "kyeol1202/global",
     "ignore": [
       "firebase.json",
       "**/.*",
